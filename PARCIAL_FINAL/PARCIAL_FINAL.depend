@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1748450715 source:c:\users\usuario\onedrive\documentos\examen_final_progra\prototipoefp12025\parcial_final\src\bitacora.cpp
+	"bitacora.h"
+	<fstream>
+	<ctime>
+	<iostream>
+
+1748450762 c:\users\usuario\onedrive\documentos\examen_final_progra\prototipoefp12025\parcial_final\include\bitacora.h
+	<string>
+
+1748450750 source:c:\users\usuario\onedrive\documentos\examen_final_progra\prototipoefp12025\parcial_final\src\informes.cpp
+	"informes.h"
+	<fstream>
+	<iostream>
+
+1748450753 c:\users\usuario\onedrive\documentos\examen_final_progra\prototipoefp12025\parcial_final\include\informes.h
+
+1748451050 source:c:\users\usuario\onedrive\documentos\examen_final_progra\prototipoefp12025\parcial_final\src\autenticacion.cpp
+	"autenticacion.h"
+	<fstream>
+	<iostream>
+	<cstring>
+
+1748451276 c:\users\usuario\onedrive\documentos\examen_final_progra\prototipoefp12025\parcial_final\include\autenticacion.h
+	"usuarios.h"
+
+1748451006 c:\users\usuario\onedrive\documentos\examen_final_progra\prototipoefp12025\parcial_final\include\usuarios.h
+
+1748450545 source:c:\users\usuario\onedrive\documentos\examen_final_progra\prototipoefp12025\parcial_final\main.cpp
+	"autenticacion.h"
+	"menu.h"
+	<iostream>
+
+1748451282 c:\users\usuario\onedrive\documentos\examen_final_progra\prototipoefp12025\parcial_final\include\menu.h
+	"usuarios.h"
+
+1748451292 source:c:\users\usuario\onedrive\documentos\examen_final_progra\prototipoefp12025\parcial_final\src\catalogos.cpp
+	"catalogos.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1748451307 c:\users\usuario\onedrive\documentos\examen_final_progra\prototipoefp12025\parcial_final\include\catalogos.h
+	"usuarios.h"
+
+1748451312 source:c:\users\usuario\onedrive\documentos\examen_final_progra\prototipoefp12025\parcial_final\src\usuarios.cpp
+	"usuarios.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1748451330 source:c:\users\usuario\onedrive\documentos\examen_final_progra\prototipoefp12025\parcial_final\src\menu.cpp
+	"menu.h"
+	"catalogos.h"
+	"informes.h"
+	"bitacora.h"
+	"usuarios.h"
+	<iostream>
+
