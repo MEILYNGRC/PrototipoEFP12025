@@ -2,7 +2,7 @@
 #include "bitacora.h"
 #include <iostream>
 #include <fstream>
-#include <cstring>
+#include <cstring>//catalogos meilyn
 
 using namespace std;
 
